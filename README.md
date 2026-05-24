@@ -1,10 +1,11 @@
-# Minecraft-Mod-Version-Checker
+# Minecraft Mod Version Checker
 
 ## 간단설명
 - 마인크래프트 모드 폴더 내에 있는 모든 모드를 원하는 버전으로 자동 다운로드 할 수 있는 프로그램입니다. ChatGPT를 사용하였습니다.
 
 ## 다운로드 방법
 - Releasesd 에서 최신 버전 다운로드
+- 현재 최신 버전 : 1.0.0V
 
 ## 실행 및 사용 방법
 1. Releasesd 에서 최신 버전 다운로드
